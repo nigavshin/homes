@@ -1,0 +1,1 @@
+{"ast":null,"code":"export {};","map":{"version":3,"names":[],"sources":["/Users/nikita/Desktop/first-angular-app/homes/src/app/routes.ts"],"sourcesContent":["import { Routes } from \"@angular/router\";\nimport {}"],"mappings":""},"metadata":{},"sourceType":"module","externalDependencies":[]}
